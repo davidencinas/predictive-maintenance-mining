@@ -108,4 +108,6 @@ predictive-maintenance-mining/
 
 ---
 
-*Project developed as part of the Data Science Diploma — TripleTen*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](TU_LINK_AQUI)
+
+**🚀 [Live Demo — Try the dashboard](https://ymt46jxh9p6z9lhlsvqupy.streamlit.app/)**
